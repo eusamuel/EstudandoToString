@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.AssemblyInfo.cs
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\bin\Debug\net6.0\Estudando.exe
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\bin\Debug\net6.0\Estudando.deps.json
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\bin\Debug\net6.0\Estudando.runtimeconfig.json
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\bin\Debug\net6.0\Estudando.dll
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\bin\Debug\net6.0\Estudando.pdb
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.dll
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\refint\Estudando.dll
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.pdb
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\Estudando.genruntimeconfig.cache
+C:\Users\samue\Documents\Estudos\C#\Estudando\Estudando\Estudando\obj\Debug\net6.0\ref\Estudando.dll
